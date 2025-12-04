@@ -280,13 +280,10 @@ Systeme im Gesundheitswesen
 
 ## 👨‍💻 Autor
 JJ
+
 ---
 
 **Hinweis**: Dies ist eine Demo-Anwendung. Für den Produktiveinsatz im medizinischen Umfeld sind zusätzliche Validierungen, Zertifizierungen und Sicherheitsmaßnahmen erforderlich.
 ```
 
 ---
-
-## Repository Description (kurz)
-```
-Full-Stack Medical Report Generator mit lokalen LLMs (Ollama). Automatische Arztbericht-Erstellung aus strukturierten Patientendaten. Node.js + React + TypeScript. DSGVO-konform, keine Cloud.
