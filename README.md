@@ -284,6 +284,5 @@ JJ
 ---
 
 **Hinweis**: Dies ist eine Demo-Anwendung. Für den Produktiveinsatz im medizinischen Umfeld sind zusätzliche Validierungen, Zertifizierungen und Sicherheitsmaßnahmen erforderlich.
-```
 
 ---
